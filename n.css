@@ -1,3 +1,10 @@
 p {
     color: blanchedalmond;
 }
+
+h1 {
+  color: #333333;        
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  text-align: center;
+}
